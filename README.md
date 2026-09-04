@@ -12,7 +12,7 @@ Water treatment plant from 17 November 2022 to 17 November 2025.
 
 The first portion of the research focuses on Exploratory Data Analysis to understand the data patterns as well as identify and correct anomalies. Then, 
 univariate and multi-variable time series forecasting baseline and AI/ML models were developed to predict residual chlorine concentrations. Additionally, an early
-warning system was developed using classic ML models to forecast residual chlorine concentrations that surpass the upper U.S. EPA upper threshold. 
+warning system was developed using classic ML models to forecast residual chlorine concentrations that surpass a specified threshold. 
 
 # Baseline models: 
 Exponential Smoothing
