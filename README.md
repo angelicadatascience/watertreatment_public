@@ -45,6 +45,6 @@ RF
 
 The original source code in this repository is available under the MIT License. See the `LICENSE` file for details.
 
-The three water treatment datasets used in this research are not included in this public repository and are not covered by the MIT License. The Sergio Cuevas and Los Filtros datasets were externally provided for this research and may not be redistributed without authorization from their respective data providers. The Alexander Orr operational dataset is also excluded from public distribution.
+The three water treatment datasets used in this research are not included in this public repository and are not covered by the MIT License. The Alexander Orr, Sergio Cuevas, and Los Filtros datasets were externally provided for this research and may not be redistributed without authorization from their respective data providers. 
 
 See `DATA_AVAILABILITY.md` for additional information.
