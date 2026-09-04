@@ -41,8 +41,6 @@ DT
 <BR>
 RF
 
-<BR> <BR>
-
 # License and Data Use
 
 The original source code in this repository is available under the MIT License. See the `LICENSE` file for details.
